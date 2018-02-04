@@ -1,2 +1,2 @@
-# bets
-app de apuestas
+# modelo_dep
+modelo deportes
